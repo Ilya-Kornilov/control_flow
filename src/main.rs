@@ -25,6 +25,7 @@ fn main() {
     // "for" loops are for collections
     let collection = [1, 2, 3, 4, 5];   // an array of int
         // "element" is a random name for each element in the collection
+    println!("Collection: {:?}", collection);   
     for element in collection {     
         println!(" > element: {element}");
     }
