@@ -2,7 +2,7 @@ This repository covers some examples from lessons 7-9 of "Let's get Rusty" bootc
 
     loop types
     labeling loops
-    assigning the result value fo the loop to a variable
+    assigning the result value of the loop to a variable
     comments types
     
 
